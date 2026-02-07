@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/parthgarg0/leetcode-Solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/parthgarg0/leetcode-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/parthgarg0/leetcode-Solution/tree/master/0169-majority-element) |
@@ -42,6 +43,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/parthgarg0/leetcode-Solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/parthgarg0/leetcode-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
