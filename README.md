@@ -11,6 +11,7 @@
 | [0078-subsets](https://github.com/parthgarg0/leetcode-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/parthgarg0/leetcode-Solution/tree/master/0169-majority-element) |
+| [2596-check-knight-tour-configuration](https://github.com/parthgarg0/leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,8 +65,21 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/parthgarg0/leetcode-Solution/tree/master/0037-sudoku-solver) |
+| [2596-check-knight-tour-configuration](https://github.com/parthgarg0/leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
 ## String
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/parthgarg0/leetcode-Solution/tree/master/0131-palindrome-partitioning) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/parthgarg0/leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/parthgarg0/leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
+## Simulation
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/parthgarg0/leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
