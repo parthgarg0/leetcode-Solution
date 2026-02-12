@@ -17,6 +17,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/parthgarg0/leetcode-Solution/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/parthgarg0/leetcode-Solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/parthgarg0/leetcode-Solution/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -87,8 +88,10 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/parthgarg0/leetcode-Solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/parthgarg0/leetcode-Solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
