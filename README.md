@@ -77,6 +77,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/parthgarg0/leetcode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2596-check-knight-tour-configuration](https://github.com/parthgarg0/leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -93,9 +94,14 @@
 | [0138-copy-list-with-random-pointer](https://github.com/parthgarg0/leetcode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/parthgarg0/leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/parthgarg0/leetcode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/parthgarg0/leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/parthgarg0/leetcode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
