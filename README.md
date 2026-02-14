@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/parthgarg0/leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/parthgarg0/leetcode-Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0509-fibonacci-number](https://github.com/parthgarg0/leetcode-Solution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/parthgarg0/leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/parthgarg0/leetcode-Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0138-copy-list-with-random-pointer](https://github.com/parthgarg0/leetcode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/parthgarg0/leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
