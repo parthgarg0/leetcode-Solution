@@ -9,6 +9,7 @@
 | [0046-permutations](https://github.com/parthgarg0/leetcode-Solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/parthgarg0/leetcode-Solution/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/parthgarg0/leetcode-Solution/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/parthgarg0/leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/parthgarg0/leetcode-Solution/tree/master/0169-majority-element) |
 | [2596-check-knight-tour-configuration](https://github.com/parthgarg0/leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
@@ -106,4 +107,12 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/parthgarg0/leetcode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/parthgarg0/leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/parthgarg0/leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
