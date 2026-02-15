@@ -12,6 +12,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/parthgarg0/leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/parthgarg0/leetcode-Solution/tree/master/0169-majority-element) |
+| [0503-next-greater-element-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/parthgarg0/leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
@@ -111,8 +112,10 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/parthgarg0/leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/parthgarg0/leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
