@@ -37,6 +37,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/parthgarg0/leetcode-Solution/tree/master/0007-reverse-integer) |
 | [0509-fibonacci-number](https://github.com/parthgarg0/leetcode-Solution/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
