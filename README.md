@@ -6,6 +6,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/parthgarg0/leetcode-Solution/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/parthgarg0/leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/parthgarg0/leetcode-Solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/parthgarg0/leetcode-Solution/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/parthgarg0/leetcode-Solution/tree/master/0078-subsets) |
@@ -42,6 +43,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/parthgarg0/leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/parthgarg0/leetcode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/parthgarg0/leetcode-Solution/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -103,6 +105,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/parthgarg0/leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/parthgarg0/leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
 ## Doubly-Linked List
@@ -112,11 +115,13 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/parthgarg0/leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parthgarg0/leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/parthgarg0/leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parthgarg0/leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
