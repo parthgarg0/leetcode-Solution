@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/parthgarg0/leetcode-Solution/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/parthgarg0/leetcode-Solution/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/parthgarg0/leetcode-Solution/tree/master/0042-trapping-rain-water) |
@@ -18,6 +19,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/parthgarg0/leetcode-Solution/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/parthgarg0/leetcode-Solution/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/parthgarg0/leetcode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/parthgarg0/leetcode-Solution/tree/master/0141-linked-list-cycle) |
