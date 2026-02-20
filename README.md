@@ -119,6 +119,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/parthgarg0/leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parthgarg0/leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0225-implement-stack-using-queues](https://github.com/parthgarg0/leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
@@ -126,4 +127,12 @@
 | [0042-trapping-rain-water](https://github.com/parthgarg0/leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parthgarg0/leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0503-next-greater-element-ii) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/parthgarg0/leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/parthgarg0/leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
