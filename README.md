@@ -25,6 +25,7 @@
 | [0141-linked-list-cycle](https://github.com/parthgarg0/leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/parthgarg0/leetcode-Solution/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/parthgarg0/leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/parthgarg0/leetcode-Solution/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/parthgarg0/leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/parthgarg0/leetcode-Solution/tree/master/0131-palindrome-partitioning) |
+| [0387-first-unique-character-in-a-string](https://github.com/parthgarg0/leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -138,4 +141,5 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/parthgarg0/leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/parthgarg0/leetcode-Solution/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/parthgarg0/leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
