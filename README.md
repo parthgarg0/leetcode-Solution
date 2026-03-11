@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parthgarg0/leetcode-Solution/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/parthgarg0/leetcode-Solution/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/parthgarg0/leetcode-Solution/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/parthgarg0/leetcode-Solution/tree/master/0042-trapping-rain-water) |
@@ -37,6 +38,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/parthgarg0/leetcode-Solution/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/parthgarg0/leetcode-Solution/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -123,6 +125,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/parthgarg0/leetcode-Solution/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/parthgarg0/leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/parthgarg0/leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
