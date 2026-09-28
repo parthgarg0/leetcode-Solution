@@ -13,6 +13,7 @@
 | [0046-permutations](https://github.com/parthgarg0/leetcode-Solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/parthgarg0/leetcode-Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/parthgarg0/leetcode-Solution/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/parthgarg0/leetcode-Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/parthgarg0/leetcode-Solution/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parthgarg0/leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0090-subsets-ii) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/parthgarg0/leetcode-Solution/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/parthgarg0/leetcode-Solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/parthgarg0/leetcode-Solution/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -133,6 +135,7 @@
 | [0011-container-with-most-water](https://github.com/parthgarg0/leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/parthgarg0/leetcode-Solution/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/parthgarg0/leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/parthgarg0/leetcode-Solution/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/parthgarg0/leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
 ## Doubly-Linked List
@@ -210,4 +213,12 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/parthgarg0/leetcode-Solution/tree/master/0572-subtree-of-another-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/parthgarg0/leetcode-Solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/parthgarg0/leetcode-Solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
