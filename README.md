@@ -100,6 +100,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/parthgarg0/leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/parthgarg0/leetcode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthgarg0/leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Depth-First Search
@@ -140,6 +141,7 @@
 | [0042-trapping-rain-water](https://github.com/parthgarg0/leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/parthgarg0/leetcode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/parthgarg0/leetcode-Solution/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/parthgarg0/leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/parthgarg0/leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
 ## Doubly-Linked List
