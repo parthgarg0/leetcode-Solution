@@ -23,6 +23,7 @@
 | [0169-majority-element](https://github.com/parthgarg0/leetcode-Solution/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/parthgarg0/leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/parthgarg0/leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [2596-check-knight-tour-configuration](https://github.com/parthgarg0/leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
@@ -224,4 +225,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/parthgarg0/leetcode-Solution/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/parthgarg0/leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
