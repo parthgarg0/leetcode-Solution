@@ -229,4 +229,8 @@
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/parthgarg0/leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/parthgarg0/leetcode-Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
