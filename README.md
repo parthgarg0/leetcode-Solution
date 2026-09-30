@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/parthgarg0/leetcode-Solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/parthgarg0/leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/parthgarg0/leetcode-Solution/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/parthgarg0/leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/parthgarg0/leetcode-Solution/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/parthgarg0/leetcode-Solution/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/parthgarg0/leetcode-Solution/tree/master/0042-trapping-rain-water) |
@@ -233,6 +234,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/parthgarg0/leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parthgarg0/leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
