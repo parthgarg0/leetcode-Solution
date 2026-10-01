@@ -103,6 +103,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthgarg0/leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/parthgarg0/leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/parthgarg0/leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/parthgarg0/leetcode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthgarg0/leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -154,6 +155,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/parthgarg0/leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/parthgarg0/leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parthgarg0/leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/parthgarg0/leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
@@ -240,4 +242,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/parthgarg0/leetcode-Solution/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/parthgarg0/leetcode-Solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
